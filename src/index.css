@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: luminari, fantasy;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  background-color: palegoldenrod;
+  --background-image: url('https://s26162.pcdn.co/wp-content/uploads/sites/3/2024/04/ouija-feat.jpg'); 
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+
+}
+  
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+button {
+  font-family: luminari, fantasy;
+  border-radius: 12px;
+  border: 2px solid; 
+  cursor: pointer;
+  text-align: center;
+  border: 0;
+  font-size: 16px;
+}
